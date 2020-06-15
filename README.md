@@ -14,5 +14,4 @@
 
 **Binary classifier transfer learning, hosting as web service using VGG16 and Flask**
 
-[2]:https://github.com/vipulrai91/web-classifier-cats-dogs/blob/master/dog.png
-[![][2]](https://github.com/vipulrai91/web-classifier-cats-dogs)
+[![](https://github.com/vipulrai91/web-classifier-cats-dogs/blob/master/dog.png "")](https://github.com/vipulrai91/web-classifier-cats-dogs)
