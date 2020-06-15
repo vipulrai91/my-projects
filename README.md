@@ -1,16 +1,3 @@
 # Collection of some of my projects
 
-## Deep Learning
-
-### *Computer Vision*
-
-**MNIST digit classifier from from Scratch**
-
-[![](/resources/img/pay-2662758_640.jpg)](https://github.com/vipulrai91/tensorflow-projects/blob/master/mnist_tf_scratch.py)
-
-<br>
-<br>
-
-**Binary classifier transfer learning, hosting as web service using VGG16 and Flask**
-
-[![Binary Classifier](https://github.com/vipulrai91/web-classifier-cats-dogs/blob/master/dog.png "")](https://github.com/vipulrai91/web-classifier-cats-dogs)
+[Projects](https://github.com/vipulrai91/my-projects/wiki/Projects-Home)
