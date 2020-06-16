@@ -27,7 +27,8 @@ Analytical and process-oriented engineer with a bachelor in computer science deg
   - Worked on various domains such as Data Engineering, Machine Learning and Solutions Architect
 - Big Data Freelancer - Consultant  `May 2017 - Oct 2017`
 - [Affine Analytics](https://www.affineanalytics.com/) - Consultant `Nov 2015 - May 2017`
-  - Joined as Senior Business Analyst, got promoted within 9 months to ConsultantDaily routine included - Code Review, managing scrum updates, fixing pending issues,planning for the day/s, updating business requirements, scheduling new tasks, reporting theprogress to higher management/stakeholders
+  - Joined as Senior Business Analyst, got promoted within 9 months to Consultant.
+  - Daily routine included - Code Review, managing scrum updates, fixing pending issues,planning for the day/s, updating business requirements, scheduling new tasks, reporting theprogress to higher management/stakeholders
 - [AIG Data Solutions](https://www.aig.com/) - Big Data Developer `Feb 2015 - Nov 2015`
 - [Blue Star Infotech](https://www.infogain.com/) - Software Engineer `Aug 2013 - Feb 2015`
 
@@ -35,42 +36,27 @@ Analytical and process-oriented engineer with a bachelor in computer science deg
 
 - SmartNomad - Intelligent itinerary builder, one-click booking engine and real-time travel assistant.
   - Designed and built algorithm which calculates the scores for each point of interest
-  - Developed a microservies architecture and built the entire pipeline beginning from dataaggregation to the final itinerary generationUsed Python and Spark to scrape, clean, and analyze point of interest data
+  - Developed a microservies architecture and built the entire pipeline beginning from dataaggregation to the final itinerary generation
+  - Used Python and Spark to scrape, clean, and analyze point of interest data
   - Developed video creator app using opencv-python and moviepyUsed multiple Google APIs(distance matrix ,maps, places) and integrated partner APIs
   - Managed a team of 7-9 people and undertook project management
-  - Collaborated with UI/UX designers, app developers and business to create an optmial customerexperienceOnboarded flight, hotel and booking partners to create inventory and enable bookingexperiences
+  - Collaborated with UI/UX designers, app developers and business to create an optmial customer experience
+  - Onboarded flight, hotel and booking partners to create inventory and enable bookingexperiences
 
-- Gaming Analytics - To process huge game logs to enable publisher find churn analysis, make future
-marketing strategies, find sentiments of players about the current version of game
-  - Raw data was being generated in json / feeds on Hive
-  - Converted data to parquet format for faster retrieval and less storage.
-  - Creating automated QA module on Spark, which did basic QC of data such as calculating min, max , avg etc for each day’s fresh feed thereby removing the necessity of manual intervention
-  - Wrote an automated Pyspark program which calculated user stats on daily, weekly and monthly level
-  - Created input data set for cross sell model using stats such as available PS Plus points, weekly spend on PS points
-  - Created model to detect fraud and cheat during gameplay
-
-- Travel Portal Optimization - To reduce the number of unqualified searches on portal’s meta channel
-  - Gave an optimized solution for a leading online travel brand to reduce the number of unqualified searches it is getting from meta channels, to improve the business KPIs like ROI/profitability/efficiency.
-  - Wrote the Optimization Program using lpsolve from Pulp package (Pyspark) and Random Forest from MlLib.
-
-- Retail Store Revenue Optimization - To identify optimal promo/clearance sale prices which would result in maximum
-sales.
+- Gaming Analytics - fortune 100 client, biggest game publisher in the world
+  - Developed the end to end pipeline for data orchestration to consumption using PySpark and Kafka
+  - Developed and deployed a fraud detection model to help company ban playersusing cheats and violating game rules using RandomForestClassifier
+  - Wrote an automated Pyspark program which calculated user stats on daily,weekly and monthly level
+  
+- Retail Store Revenue Optimization- fortune 100 american retail giant 
   - The pricing team was tasked with the challenge to identify optimal promo/clearance sale prices which would result in maximum sales.
   - Identified multiple factors which impact unit sales during promotions such as Price Elasticity, Seasonality, % sales in each Day-of-the-Week, effect of circulars/promotions, breakage due to unavailability of different sized SKUs, impact of public holidays, etc.
+  - Developed the aglorithm using Spark - Scala
 
-- Travel Portal - Email Marketing and Campaigns - To process huge unstructured data and help the marketing team gain insights about the current promotions and decide future strategies.
-  - Data was being generated at about 2GB per hour in json format.
-  - Converted data to parquet format for faster retrieval and less storage.
-  - Used client API to map the data and convert into standardized format.
-  - Used Qubole for accessing the spark cluster and running the queries.
-  - Wrote program in Pyspark and Scala Spark to select different campaigns for various categories of customers based on Business Rules
-  - Got hands on experience working on AWS Ec2 and S3
+- Travel Portal Optimization - To reduce the number of unqualified searches on portal’s meta channel 
+  - Gave an optimized solution for a leading online travel brand to reduce the number of unqualified searches it is getting from meta channels, to improve the business KPIs likeROI/profitability/efficiency
+  - Wrote the Optimization Program using lpsolve from Pulp package (Pyspark) andRandom Forest from MlLi
 
-- Insurance Log Analyzer - To parse data incoming from 8 different types of servers to be consumed by Power BI
-  - Logs from 8 different types of devices were being generated
-simultaneously.
-  - Used Kafka and Pyspark to generate insights such as - which user was accessing the websites which were blocked etc.
-  - The final result was being used by Power BI for reporting
 
 ## Education
 
