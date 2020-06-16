@@ -13,7 +13,7 @@ Analytical and process-oriented engineer with a bachelor in computer science deg
 
 |  <!-- -->   |  <!-- -->   |
 |---|---|
-|  Deep Learning |Tensorflow, Pytorch,fast.ai<br> CNN, RNN, LSTM, GAN, Transformers, BERT, DETR<br> Object Recognition, Transfer Learning, OpenCv |
+|  Deep Learning |Tensorflow, Pytorch, fast.ai<br> CNN, RNN, LSTM, GAN, Transformers, BERT, DETR<br> Object Recognition, Transfer Learning, OpenCv |
 |  Programming  | Python<br>Scala  |
 |  ML |   Linear Regression,Descision Trees,Random Forest<br> Logistic Regression, Support Vector Machine<br> KNN, K-Means clustering, XGBOOST <br> scikit-learn, numpy, pandas  |
 |  Big Data |    PySpark, Scala- Spark, Data Frames API, Spark SQL, Spark Streaming <br>Kafka, Map Reduce, Hive, HDFS, Solr, YARN, SQL |
@@ -28,54 +28,54 @@ Analytical and process-oriented engineer with a bachelor in computer science deg
 - Big Data Freelancer - Consultant  `May 2017 - Oct 2017`
 - [Affine Analytics](https://www.affineanalytics.com/) - Consultant `Nov 2015 - May 2017`
   - Joined as Senior Business Analyst, got promoted within 9 months to Consultant.
-  - Daily routine included - Code Review, managing scrum updates, fixing pending issues,planning for the day/s, updating business requirements, scheduling new tasks, reporting theprogress to higher management/stakeholders
+  - Daily routine included - Code Review, managing scrum updates, fixing pending issues, planning for the day/s, updating business requirements, scheduling new tasks, reporting the progress to higher management/stakeholders
 - [AIG Data Solutions](https://www.aig.com/) - Big Data Developer `Feb 2015 - Nov 2015`
   - Worked as Big Data Developer to internal AIG teams across the globe. Desgined and built a POC around Spark and Big Data Ecosystems
-  - Achieved Databricks certified Spark Developer Certification
+  - Achieved DataBricks certified Spark Developer Certification
 - [Blue Star Infotech](https://www.infogain.com/) - Software Engineer `Aug 2013 - Feb 2015`
-  - Worked as Software Engineer, joined here as a fresher.Learned and worked around Big Data tools such as Hadoop ,Hive etc
+  - Worked as Software Engineer, joined here as a fresher. Learned and worked around Big Data tools such as Hadoop ,Hive etc
 
 ## Selected Projects
 
 - SmartNomad - Intelligent itinerary builder, one-click booking engine and real-time travel assistant.
   - Designed and built algorithm which calculates the scores for each point of interest
-  - Developed a microservies architecture and built the entire pipeline beginning from dataaggregation to the final itinerary generation
+  - Developed a microservies architecture and built the entire pipeline beginning from data aggregation to the final itinerary generation
   - Used Python and Spark to scrape, clean, and analyze point of interest data
   - Developed video creator app using opencv-python and moviepyUsed multiple Google APIs(distance matrix ,maps, places) and integrated partner APIs
   - Managed a team of 7-9 people and undertook project management
-  - Collaborated with UI/UX designers, app developers and business to create an optmial customer experience
-  - Onboarded flight, hotel and booking partners to create inventory and enable bookingexperiences
+  - Collaborated with UI/UX designers, app developers and business to create an optimal customer experience
+  - Onboarded flight, hotel and booking partners to create inventory and enable booking experiences
 
-- Gaming Analytics - fortune 100 client, biggest game publisher in the world
+- Gaming Analytics - fortune 100 client, the biggest game publisher in the world
   - Developed the end to end pipeline for data orchestration to consumption using PySpark and Kafka
-  - Developed and deployed a fraud detection model to help company ban playersusing cheats and violating game rules using RandomForestClassifier
-  - Wrote an automated Pyspark program which calculated user stats on daily,weekly and monthly level
+  - Developed and deployed a fraud detection model to help company ban players using cheats and violating game rules using RandomForestClassifier
+  - Wrote an automated Pyspark program which calculated user stats on daily, weekly and monthly level
   
-- Retail Store Revenue Optimization- fortune 100 american retail giant 
+- Retail Store Revenue Optimization- fortune 100 American retail giant 
   - The pricing team was tasked with the challenge to identify optimal promo/clearance sale prices which would result in maximum sales.
   - Identified multiple factors which impact unit sales during promotions such as Price Elasticity, Seasonality, % sales in each Day-of-the-Week, effect of circulars/promotions, breakage due to unavailability of different sized SKUs, impact of public holidays, etc.
-  - Developed the aglorithm using Spark - Scala
+  - Developed the algorithm using Spark - Scala
 
 - Travel Portal Optimization - To reduce the number of unqualified searches on portal’s meta channel 
-  - Gave an optimized solution for a leading online travel brand to reduce the number of unqualified searches it is getting from meta channels, to improve the business KPIs likeROI/profitability/efficiency
-  - Wrote the Optimization Program using lpsolve from Pulp package (Pyspark) andRandom Forest from MlLib
+  - Gave an optimized solution for a leading online travel brand to reduce the number of unqualified searches it is getting from meta channels, to improve the business KPIs like ROI/profitability/efficiency
+  - Wrote the Optimization Program using lpsolve from Pulp package (Pyspark) and Random Forest from MlLib
 
 ## Personal/Open Source Contributions
 
 - Deep Learning - https://github.com/vipulrai91/my-projects/wiki/Projects-Home
-  - MNIST digit classifier from scratch - built a classifier using Keras, tensorlfow to classifiy MNSIT dataset digits from scratch
-  - Binary classifier - transfer learning, hosting as web service using VGG16 and Flask  on live browser which allows user to upload an image and it returns predections whether it was a cat or a dog
-  - Sign Language digit classifier using MobileNet Keras - built a classifier to classify the sign language hand digits and deployed to as web service using tensorflowjs
+  - MNIST digit classifier from scratch - built a classifier using Keras, Tensorflow to classify MNSIT dataset digits from scratch
+  - Binary classifier - transfer learning, hosting as web service using VGG16 and Flask  on live browser which allows user to upload an image and it returns predictions whether it was a cat or a dog
+  - Sign Language digit classifier using MobileNet Keras - built a classifier to classify the sign language hand digits and deployed to as web service using Tensorflowjs
 
 - pandas-dev/pandas
 Active contributor to pandas-dev,  participant  in discussions, bug fixes and  documentation, test and generic topics
 - Kaggle
 Participant in multiple competitons, some being
 
-  - Google Research - quickdraw-doodle-recognition - used Pytorch and resnet34 model to build a classifier - secured bronze medal and rank 119/ 1316 - top 10%
+  - Google Research - quickdraw-doodle-recognition - used PyTorch and resnet34 model to build a classifier - secured bronze medal and rank 119/ 1316 - top 10%
   - Tweet Sentiment Extraction - Extracting support phrases from sentiment labels - built model using Tensorflow, Keras and Transformers API roBERTa - ongoing
   - Google Analytics Customer Revenue Prediction - build the model to predict revenue per customer using XGBOOST - secured rank 717/3611 - top 20%
-  - Human Protein Atlas Image Classification - build model to classify mixed patterns in protien images uisng PyTorch and resnet34 - secured top 23% rank (493/2169)
+  - Human Protein Atlas Image Classification - build model to classify mixed patterns in protein images using PyTorch and resnet34 - secured top 23% rank (493/2169)
 
 ## Education
 
