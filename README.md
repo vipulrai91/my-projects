@@ -58,7 +58,7 @@ Analytical and process-oriented engineer with a bachelor in computer science deg
 
 - Travel Portal Optimization - To reduce the number of unqualified searches on portal’s meta channel 
   - Gave an optimized solution for a leading online travel brand to reduce the number of unqualified searches it is getting from meta channels, to improve the business KPIs likeROI/profitability/efficiency
-  - Wrote the Optimization Program using lpsolve from Pulp package (Pyspark) andRandom Forest from MlLi
+  - Wrote the Optimization Program using lpsolve from Pulp package (Pyspark) andRandom Forest from MlLib
 
 ## Personal/Open Source Contributions
 
