@@ -30,7 +30,10 @@ Analytical and process-oriented engineer with a bachelor in computer science deg
   - Joined as Senior Business Analyst, got promoted within 9 months to Consultant.
   - Daily routine included - Code Review, managing scrum updates, fixing pending issues,planning for the day/s, updating business requirements, scheduling new tasks, reporting theprogress to higher management/stakeholders
 - [AIG Data Solutions](https://www.aig.com/) - Big Data Developer `Feb 2015 - Nov 2015`
+  - Worked as Big Data Developer to internal AIG teams across the globe. Desgined and built a POC around Spark and Big Data Ecosystems
+  - Achieved Databricks certified Spark Developer Certification
 - [Blue Star Infotech](https://www.infogain.com/) - Software Engineer `Aug 2013 - Feb 2015`
+  - Worked as Software Engineer, joined here as a fresher.Learned and worked around Big Data tools such as Hadoop ,Hive etc
 
 ## Selected Projects
 
@@ -57,6 +60,22 @@ Analytical and process-oriented engineer with a bachelor in computer science deg
   - Gave an optimized solution for a leading online travel brand to reduce the number of unqualified searches it is getting from meta channels, to improve the business KPIs likeROI/profitability/efficiency
   - Wrote the Optimization Program using lpsolve from Pulp package (Pyspark) andRandom Forest from MlLi
 
+## Personal/Open Source Contributions
+
+- Deep Learning - https://github.com/vipulrai91/my-projects/wiki/Projects-Home
+  - MNIST digit classifier from scratch - built a classifier using Keras, tensorlfow to classifiy MNSIT dataset digits from scratch
+  - Binary classifier - transfer learning, hosting as web service using VGG16 and Flask  on live browser which allows user to upload an image and it returns predections whether it was a cat or a dog
+  - Sign Language digit classifier using MobileNet Keras - built a classifier to classify the sign language hand digits and deployed to as web service using tensorflowjs
+
+- pandas-dev/pandas
+Active contributor to pandas-dev,  participant  in discussions, bug fixes and  documentation, test and generic topics
+- Kaggle
+Participant in multiple competitons, some being
+
+  - Google Research - quickdraw-doodle-recognition - used Pytorch and resnet34 model to build a classifier - secured bronze medal and rank 119/ 1316 - top 10%
+  - Tweet Sentiment Extraction - Extracting support phrases from sentiment labels - built model using Tensorflow, Keras and Transformers API roBERTa - ongoing
+  - Google Analytics Customer Revenue Prediction - build the model to predict revenue per customer using XGBOOST - secured rank 717/3611 - top 20%
+  - Human Protein Atlas Image Classification - build model to classify mixed patterns in protien images uisng PyTorch and resnet34 - secured top 23% rank (493/2169)
 
 ## Education
 
