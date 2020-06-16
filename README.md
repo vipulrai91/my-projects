@@ -15,7 +15,7 @@ Analytical and process-oriented engineer with a bachelor in computer science deg
 |---|---|
 |  Deep Learning |Tensorflow, Pytorch, fast.ai<br> CNN, RNN, LSTM, GAN, Transformers, BERT, DETR<br> Object Recognition, Transfer Learning, OpenCv |
 |  Programming  | Python<br>Scala  |
-|  ML |   Linear Regression,Descision Trees,Random Forest<br> Logistic Regression, Support Vector Machine<br> KNN, K-Means clustering, XGBOOST <br> scikit-learn, numpy, pandas  |
+|  ML |   Linear Regression, Decision Trees,Random Forest<br> Logistic Regression, Support Vector Machine<br> KNN, K-Means clustering, XGBOOST <br> scikit-learn, numpy, pandas  |
 |  Big Data |    PySpark, Scala- Spark, Data Frames API, Spark SQL, Spark Streaming <br>Kafka, Map Reduce, Hive, HDFS, Solr, YARN, SQL |
 |  Cloud |   AWS Lambda, EC2, S3, API Gateway <br> CDH, Qubole, Google Cloud |
 |  Dev Tools | Django, Github, Jupyter, VSCode, JIRA  |
