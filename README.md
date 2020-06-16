@@ -23,27 +23,22 @@ Analytical and process-oriented engineer with a bachelor in computer science deg
 
 ## Experience
 
-- [SmartNomad](https://smartnomad.com/) - Product Engineer/ Data Scientist `Oct 2017 - May 2020`
+- [SmartNomad](https://smartnomad.com/) - Senior Data Scientist `Oct 2017 - May 2020`
+  - Worked on various domains such as Data Engineering, Machine Learning and Solutions Architect
 - Big Data Freelancer - Consultant  `May 2017 - Oct 2017`
 - [Affine Analytics](https://www.affineanalytics.com/) - Consultant `Nov 2015 - May 2017`
+  - Joined as Senior Business Analyst, got promoted within 9 months to ConsultantDaily routine included - Code Review, managing scrum updates, fixing pending issues,planning for the day/s, updating business requirements, scheduling new tasks, reporting theprogress to higher management/stakeholders
 - [AIG Data Solutions](https://www.aig.com/) - Big Data Developer `Feb 2015 - Nov 2015`
 - [Blue Star Infotech](https://www.infogain.com/) - Software Engineer `Aug 2013 - Feb 2015`
 
 ## Selected Projects
 
 - SmartNomad - Intelligent itinerary builder, one-click booking engine and real-time travel assistant.
-  - Built the entire pipeline beginning from data aggregation to the final itinerary.
-  - Wrote proprietary algorithm which calculates the scores for each poi
-  - Wrote code which adds functionality on top of original solver
-  - Built the backend of the core application which provides personalized intelligent itinerary custom made for each user using Django
-  - Built automated framework which tests the effectiveness, feasibility of the itinerary.
-  - Created internal video creator app using [opencv-python](https://pypi.org/project/opencv-python/) and [moviepy](https://pypi.org/project/moviepy/)
-  - Set Up and used [OSRM](http://project-osrm.org/) for routing
+  - Designed and built algorithm which calculates the scores for each point of interest
+  - Developed a microservies architecture and built the entire pipeline beginning from dataaggregation to the final itinerary generationUsed Python and Spark to scrape, clean, and analyze point of interest data
+  - Developed video creator app using opencv-python and moviepyUsed multiple Google APIs(distance matrix ,maps, places) and integrated partner APIs
   - Managed a team of 7-9 people and undertook project management
-  - Used Selenium and [BS4](https://pypi.org/project/beautifulsoup4/) for scrapping
-  - Used multiple Google APIs such as distance matrix ,maps, places
-  - Used ML algorithm to test the churn analysis
-  - Created prelaunch application
+  - Collaborated with UI/UX designers, app developers and business to create an optmial customerexperienceOnboarded flight, hotel and booking partners to create inventory and enable bookingexperiences
 
 - Gaming Analytics - To process huge game logs to enable publisher find churn analysis, make future
 marketing strategies, find sentiments of players about the current version of game
