@@ -88,7 +88,7 @@ Participant in multiple competitons, some being
 
 ## Awards
 
-- Affine Analytics - Transformer of the month thrice , transformer of the quarter once
+- Affine Analytics - Transformer of the month thrice ,transformer of the quarter once
 - AIG - Employee of the month for Spark POC
 - Blue Star Infotech - Employee of the month twice
 
