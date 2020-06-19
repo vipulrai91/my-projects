@@ -41,6 +41,9 @@ Analytical and process-oriented engineer with a bachelor in computer science deg
   - Designed and built algorithm which calculates the scores for each point of interest
   - Developed a microservies architecture and built the entire pipeline beginning from data aggregation to the final itinerary generation
   - Used Python and Spark to scrape, clean, and analyze point of interest data
+  - Developed program multi-class Sentiment Analysis using BERT
+  - Developed algorithm to discard images containing unqualified objects using YOLOv3
+  - Developed program for topic analysis for tagging categories of each point of interest(POI)
   - Developed video creator app using opencv-python and moviepyUsed multiple Google APIs(distance matrix ,maps, places) and integrated partner APIs
   - Managed a team of 7-9 people and undertook project management
   - Collaborated with UI/UX designers, app developers and business to create an optimal customer experience
