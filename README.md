@@ -76,7 +76,7 @@ Active contributor to pandas-dev,  participant  in discussions, bug fixes and  d
 Participant in multiple competitons, some being
 
   - Google Research - quickdraw-doodle-recognition - used PyTorch and resnet34 model to build a classifier - secured bronze medal and rank 119/ 1316 - top 10%
-  - Tweet Sentiment Extraction - Extracting support phrases from sentiment labels - built model using Tensorflow, Keras and Transformers API roBERTa - ongoing
+  - Tweet Sentiment Extraction - Extracting support phrases from sentiment labels - built model using Tensorflow, Keras and Transformers API roBERTa - 268/2227 - top 13%    
   - Google Analytics Customer Revenue Prediction - build the model to predict revenue per customer using XGBOOST - secured rank 717/3611 - top 20%
   - Human Protein Atlas Image Classification - build model to classify mixed patterns in protein images using PyTorch and resnet34 - secured top 23% rank (493/2169)
 
