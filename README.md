@@ -94,7 +94,7 @@ Participant in multiple competitons, some being
 
 ## Certification/Independent Coursework
 
-- Databricks O'Reilly Developer Certification for Apache Spark<br>
+- [Databricks O'Reilly Developer Certification for Apache Spark](https://vipulrai.me/my-projects/certifications/C0170_Rai.pdf)<br>
 - fast.ai - [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)
 - fast.ai - [Deep Learning for coders](https://course.fast.ai/)
 - R Programming - Coursera<br>
