@@ -101,9 +101,5 @@ Participant in multiple competitons, some being
 - R Programming - Coursera<br>
 - edX Honor Code Certificate for Introduction to Linux<br>
 - Big Data - Spark Fundamentals - IBM<br>
-- Hadoop Fundamentals I - Version 3 (bigdatauniversity.com)<br>
-- Accessing Hadoop Data Using Hive V2 (bigdatauniversity.com)<br>
-- Hadoop Developer Day (bigdatauniversity.com)<br>
-- Hadoop and the Amazon Cloud (bigdatauniversity.com) 
 
 <!-- ### Footer Last updated: May 2020 -->
